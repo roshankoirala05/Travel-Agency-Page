@@ -1,0 +1,70 @@
+/* Roshan Koirala
+   Dr. Smith 
+   CSCI 3030
+   09/22/2015
+*/
+
+body
+{
+background-color: #132020;
+}
+a{
+color: #00CCFF;
+}
+article
+{
+	clear:left;
+	margin: 0em 4em 0.5em 3em;
+	background-color:white;
+	padding :10px;
+}
+h1{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:15pt;
+	
+}
+ h2{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:10pt;
+	
+}
+#first {
+font-style: italic;
+color: #ADADAD;
+}
+header nav ul li{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:12pt;
+	font-weight: bold;
+	list-style: none;
+	float:left;
+	margin: 0.5em 1em 0.5em 0em;
+}
+header nav ul{
+	background-color:#778899;
+	margin:1em 0em 0.5em 0em;
+	overflow:hidden;
+	padding:2px;
+}
+#second{
+	border:solid 1px;
+	padding: 0.3em 0.3em 0.3em 0.3em;
+	border-color:black;
+	margin : 1em 0em 1em 0em;
+}
+
+article section figure + p{
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	border:inset 1px;
+	margin: 0em 0em 2em 0em;
+	background:#AAACAF;
+	width: 55.5%;
+}
+header,footer {
+	background-color: #3D6271;
+	margin: 0em 4em 0.5em 3em;
+	color:white;
+	
+	
+}
+
